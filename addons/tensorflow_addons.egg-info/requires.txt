@@ -1,0 +1,11 @@
+typeguard<3.0.0,>=2.7
+packaging
+
+[tensorflow]
+tensorflow<2.16.0,>=2.13.0
+
+[tensorflow-cpu]
+tensorflow-cpu<2.16.0,>=2.13.0
+
+[tensorflow-gpu]
+tensorflow-gpu<2.16.0,>=2.13.0
